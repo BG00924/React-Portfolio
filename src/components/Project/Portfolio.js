@@ -44,7 +44,21 @@ function Portfolio() {
             link: "https://bg00924.github.io/Ultimate-Javascript-Quiz/",
             image: require('../../Assets/Images/quiz_intro.JPG'),
             github: "https://github.com/BG00924/Ultimate-Javascript-Quiz"
-        }
+        },
+        {
+            name: 'Game Search',
+            technology: 'MySql, APIs',
+            link: "https://limitless-journey-49963.herokuapp.com/",
+            image: require('../../Assets/Images/gamesearch.JPG'),
+            github: "https://github.com/BG00924/Team-Avatar-Project-2"
+        },
+        {
+            name: 'Decidr',
+            technology: 'React, NoSQL, GraphQL',
+            link: "https://murmuring-shore-67140.herokuapp.com/signup",
+            image: require('../../Assets/Images/Decidr.JPG'),
+            github: "https://github.com/KRAY306090/decision-maker"
+        },
     ])
 
     return (
